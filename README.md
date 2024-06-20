@@ -1,4 +1,4 @@
-the instructions provided cover the essential steps for setting up, running, and testing the backend server. Here is a consolidated and formatted README that you can use for your GitHub repository:
+the instructions provided cover the essential steps for setting up, running, and testing the backend server:
 
  Backend Server
 
